@@ -122,7 +122,6 @@ def train(train_loader,model,optimizer,criterion,epoch,logger,args):
     cur_lr = optimizer.param_groups[0]['lr']
     model.train()
 
-
     for X, y in train_loader:
         X,y = X.to(device,non_blocking=True), y.to(device,non_blocking=True)
         N = X.size(0)
