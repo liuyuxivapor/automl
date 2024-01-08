@@ -111,6 +111,7 @@ def main(HIDDEN_NODE_FC1,HIDDEN_NODE_FC2,HIDDEN_NODE_FC3):
                 'epoch':epoch,
             }
             utils.save_checkpoint(state,args.log_path,True)
+        
     logger.info("Final best Prec@1 = {:.4%}".format(best_top1))
     logger.info("total_cost:{%d},total_time:{%d}"%(int(res_map['total_cost']),int(res_map['total_time'])))
     return [best_top1,res_map['total_cost'],res_map['total_time']]
