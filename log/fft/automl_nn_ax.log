@@ -1,0 +1,640 @@
+01/08 04:47:46 PM | 
+01/08 04:47:46 PM | Parameters:
+01/08 04:47:46 PM | FC1=8
+01/08 04:47:46 PM | FC2=8
+01/08 04:47:46 PM | FC3=8
+01/08 04:47:46 PM | SYNC=False
+01/08 04:47:46 PM | 
+01/08 04:47:49 PM | model size: 0.174 KB
+01/08 04:49:09 PM | Final best Prec@1 = 33.7870%
+01/08 04:49:09 PM | total_cost:{213504},total_time:{400}
+01/08 04:49:09 PM | 
+01/08 04:49:09 PM | Parameters:
+01/08 04:49:09 PM | FC1=8
+01/08 04:49:09 PM | FC2=8
+01/08 04:49:09 PM | FC3=16
+01/08 04:49:09 PM | SYNC=False
+01/08 04:49:09 PM | 
+01/08 04:49:09 PM | model size: 0.260 KB
+01/08 04:50:28 PM | Final best Prec@1 = 51.1243%
+01/08 04:50:28 PM | total_cost:{289792},total_time:{528}
+01/08 04:50:28 PM | 
+01/08 04:50:28 PM | Parameters:
+01/08 04:50:28 PM | FC1=8
+01/08 04:50:28 PM | FC2=8
+01/08 04:50:28 PM | FC3=32
+01/08 04:50:28 PM | SYNC=False
+01/08 04:50:28 PM | 
+01/08 04:50:29 PM | model size: 0.432 KB
+01/08 04:51:45 PM | Final best Prec@1 = 84.7633%
+01/08 04:51:45 PM | total_cost:{442368},total_time:{784}
+01/08 04:51:45 PM | 
+01/08 04:51:45 PM | Parameters:
+01/08 04:51:45 PM | FC1=8
+01/08 04:51:45 PM | FC2=8
+01/08 04:51:45 PM | FC3=64
+01/08 04:51:45 PM | SYNC=False
+01/08 04:51:45 PM | 
+01/08 04:51:46 PM | model size: 0.775 KB
+01/08 04:53:02 PM | Final best Prec@1 = 99.0237%
+01/08 04:53:02 PM | total_cost:{747520},total_time:{1296}
+01/08 04:53:02 PM | 
+01/08 04:53:02 PM | Parameters:
+01/08 04:53:02 PM | FC1=8
+01/08 04:53:02 PM | FC2=16
+01/08 04:53:02 PM | FC3=8
+01/08 04:53:02 PM | SYNC=False
+01/08 04:53:02 PM | 
+01/08 04:53:02 PM | model size: 0.307 KB
+01/08 04:54:18 PM | Final best Prec@1 = 54.9704%
+01/08 04:54:18 PM | total_cost:{303616},total_time:{528}
+01/08 04:54:18 PM | 
+01/08 04:54:18 PM | Parameters:
+01/08 04:54:18 PM | FC1=8
+01/08 04:54:18 PM | FC2=16
+01/08 04:54:18 PM | FC3=16
+01/08 04:54:18 PM | SYNC=False
+01/08 04:54:18 PM | 
+01/08 04:54:18 PM | model size: 0.455 KB
+01/08 04:55:34 PM | Final best Prec@1 = 35.3550%
+01/08 04:55:34 PM | total_cost:{398336},total_time:{656}
+01/08 04:55:35 PM | 
+01/08 04:55:35 PM | Parameters:
+01/08 04:55:35 PM | FC1=8
+01/08 04:55:35 PM | FC2=16
+01/08 04:55:35 PM | FC3=32
+01/08 04:55:35 PM | SYNC=False
+01/08 04:55:35 PM | 
+01/08 04:55:35 PM | model size: 0.752 KB
+01/08 04:56:55 PM | Final best Prec@1 = 85.7692%
+01/08 04:56:55 PM | total_cost:{587776},total_time:{912}
+01/08 04:56:55 PM | 
+01/08 04:56:55 PM | Parameters:
+01/08 04:56:55 PM | FC1=8
+01/08 04:56:55 PM | FC2=16
+01/08 04:56:55 PM | FC3=64
+01/08 04:56:55 PM | SYNC=False
+01/08 04:56:55 PM | 
+01/08 04:56:56 PM | model size: 1.346 KB
+01/08 04:58:15 PM | Final best Prec@1 = 93.2840%
+01/08 04:58:15 PM | total_cost:{966656},total_time:{1424}
+01/08 04:58:15 PM | 
+01/08 04:58:15 PM | Parameters:
+01/08 04:58:15 PM | FC1=8
+01/08 04:58:15 PM | FC2=32
+01/08 04:58:15 PM | FC3=8
+01/08 04:58:15 PM | SYNC=False
+01/08 04:58:15 PM | 
+01/08 04:58:16 PM | model size: 0.572 KB
+01/08 04:59:35 PM | Final best Prec@1 = 43.0178%
+01/08 04:59:35 PM | total_cost:{483840},total_time:{784}
+01/08 04:59:35 PM | 
+01/08 04:59:35 PM | Parameters:
+01/08 04:59:35 PM | FC1=8
+01/08 04:59:35 PM | FC2=32
+01/08 04:59:35 PM | FC3=16
+01/08 04:59:35 PM | SYNC=False
+01/08 04:59:35 PM | 
+01/08 04:59:36 PM | model size: 0.846 KB
+01/08 05:00:56 PM | Final best Prec@1 = 93.8462%
+01/08 05:00:56 PM | total_cost:{615424},total_time:{912}
+01/08 05:00:56 PM | 
+01/08 05:00:56 PM | Parameters:
+01/08 05:00:56 PM | FC1=8
+01/08 05:00:56 PM | FC2=32
+01/08 05:00:56 PM | FC3=32
+01/08 05:00:56 PM | SYNC=False
+01/08 05:00:56 PM | 
+01/08 05:00:57 PM | model size: 1.393 KB
+01/08 05:02:19 PM | Final best Prec@1 = 96.7456%
+01/08 05:02:19 PM | total_cost:{878592},total_time:{1168}
+01/08 05:02:19 PM | 
+01/08 05:02:19 PM | Parameters:
+01/08 05:02:19 PM | FC1=8
+01/08 05:02:19 PM | FC2=32
+01/08 05:02:19 PM | FC3=64
+01/08 05:02:19 PM | SYNC=False
+01/08 05:02:19 PM | 
+01/08 05:02:20 PM | model size: 2.486 KB
+01/08 05:03:43 PM | Final best Prec@1 = 98.8166%
+01/08 05:03:43 PM | total_cost:{1404928},total_time:{1680}
+01/08 05:03:43 PM | 
+01/08 05:03:43 PM | Parameters:
+01/08 05:03:43 PM | FC1=8
+01/08 05:03:43 PM | FC2=64
+01/08 05:03:43 PM | FC3=8
+01/08 05:03:43 PM | SYNC=False
+01/08 05:03:43 PM | 
+01/08 05:03:44 PM | model size: 1.104 KB
+01/08 05:05:07 PM | Final best Prec@1 = 83.7574%
+01/08 05:05:07 PM | total_cost:{844288},total_time:{1296}
+01/08 05:05:07 PM | 
+01/08 05:05:07 PM | Parameters:
+01/08 05:05:07 PM | FC1=8
+01/08 05:05:07 PM | FC2=64
+01/08 05:05:07 PM | FC3=16
+01/08 05:05:07 PM | SYNC=False
+01/08 05:05:07 PM | 
+01/08 05:05:08 PM | model size: 1.627 KB
+01/08 05:06:32 PM | Final best Prec@1 = 76.2426%
+01/08 05:06:32 PM | total_cost:{1049600},total_time:{1424}
+01/08 05:06:32 PM | 
+01/08 05:06:32 PM | Parameters:
+01/08 05:06:32 PM | FC1=8
+01/08 05:06:32 PM | FC2=64
+01/08 05:06:32 PM | FC3=32
+01/08 05:06:32 PM | SYNC=False
+01/08 05:06:32 PM | 
+01/08 05:06:33 PM | model size: 2.674 KB
+01/08 05:07:57 PM | Final best Prec@1 = 93.1953%
+01/08 05:07:57 PM | total_cost:{1460224},total_time:{1680}
+01/08 05:07:57 PM | 
+01/08 05:07:57 PM | Parameters:
+01/08 05:07:57 PM | FC1=8
+01/08 05:07:57 PM | FC2=64
+01/08 05:07:57 PM | FC3=64
+01/08 05:07:57 PM | SYNC=False
+01/08 05:07:57 PM | 
+01/08 05:07:58 PM | model size: 4.768 KB
+01/08 05:09:22 PM | Final best Prec@1 = 99.5858%
+01/08 05:09:22 PM | total_cost:{2281472},total_time:{2192}
+01/08 05:09:23 PM | 
+01/08 05:09:23 PM | Parameters:
+01/08 05:09:23 PM | FC1=16
+01/08 05:09:23 PM | FC2=8
+01/08 05:09:23 PM | FC3=8
+01/08 05:09:23 PM | SYNC=False
+01/08 05:09:23 PM | 
+01/08 05:09:23 PM | model size: 0.252 KB
+01/08 05:10:47 PM | Final best Prec@1 = 15.5030%
+01/08 05:10:47 PM | total_cost:{287488},total_time:{528}
+01/08 05:10:47 PM | 
+01/08 05:10:47 PM | Parameters:
+01/08 05:10:47 PM | FC1=16
+01/08 05:10:47 PM | FC2=8
+01/08 05:10:47 PM | FC3=16
+01/08 05:10:47 PM | SYNC=False
+01/08 05:10:47 PM | 
+01/08 05:10:48 PM | model size: 0.338 KB
+01/08 05:12:09 PM | Final best Prec@1 = 0.9763%
+01/08 05:12:09 PM | total_cost:{363776},total_time:{656}
+01/08 05:12:09 PM | 
+01/08 05:12:09 PM | Parameters:
+01/08 05:12:09 PM | FC1=16
+01/08 05:12:09 PM | FC2=8
+01/08 05:12:09 PM | FC3=32
+01/08 05:12:09 PM | SYNC=False
+01/08 05:12:09 PM | 
+01/08 05:12:10 PM | model size: 0.510 KB
+01/08 05:13:31 PM | Final best Prec@1 = 90.6213%
+01/08 05:13:31 PM | total_cost:{516352},total_time:{912}
+01/08 05:13:31 PM | 
+01/08 05:13:31 PM | Parameters:
+01/08 05:13:31 PM | FC1=16
+01/08 05:13:31 PM | FC2=8
+01/08 05:13:31 PM | FC3=64
+01/08 05:13:31 PM | SYNC=False
+01/08 05:13:31 PM | 
+01/08 05:13:32 PM | model size: 0.854 KB
+01/08 05:14:53 PM | Final best Prec@1 = 96.2722%
+01/08 05:14:53 PM | total_cost:{821504},total_time:{1424}
+01/08 05:14:53 PM | 
+01/08 05:14:53 PM | Parameters:
+01/08 05:14:53 PM | FC1=16
+01/08 05:14:53 PM | FC2=16
+01/08 05:14:53 PM | FC3=8
+01/08 05:14:53 PM | SYNC=False
+01/08 05:14:53 PM | 
+01/08 05:14:54 PM | model size: 0.447 KB
+01/08 05:16:17 PM | Final best Prec@1 = 26.4497%
+01/08 05:16:17 PM | total_cost:{396032},total_time:{656}
+01/08 05:16:18 PM | 
+01/08 05:16:18 PM | Parameters:
+01/08 05:16:18 PM | FC1=16
+01/08 05:16:18 PM | FC2=16
+01/08 05:16:18 PM | FC3=16
+01/08 05:16:18 PM | SYNC=False
+01/08 05:16:18 PM | 
+01/08 05:16:18 PM | model size: 0.596 KB
+01/08 05:17:42 PM | Final best Prec@1 = 74.6154%
+01/08 05:17:42 PM | total_cost:{490752},total_time:{784}
+01/08 05:17:42 PM | 
+01/08 05:17:42 PM | Parameters:
+01/08 05:17:42 PM | FC1=16
+01/08 05:17:42 PM | FC2=16
+01/08 05:17:42 PM | FC3=32
+01/08 05:17:42 PM | SYNC=False
+01/08 05:17:42 PM | 
+01/08 05:17:43 PM | model size: 0.893 KB
+01/08 05:19:05 PM | Final best Prec@1 = 95.0296%
+01/08 05:19:05 PM | total_cost:{680192},total_time:{1040}
+01/08 05:19:05 PM | 
+01/08 05:19:05 PM | Parameters:
+01/08 05:19:05 PM | FC1=16
+01/08 05:19:05 PM | FC2=16
+01/08 05:19:05 PM | FC3=64
+01/08 05:19:05 PM | SYNC=False
+01/08 05:19:05 PM | 
+01/08 05:19:06 PM | model size: 1.486 KB
+01/08 05:20:30 PM | Final best Prec@1 = 98.3432%
+01/08 05:20:30 PM | total_cost:{1059072},total_time:{1552}
+01/08 05:20:30 PM | 
+01/08 05:20:30 PM | Parameters:
+01/08 05:20:30 PM | FC1=16
+01/08 05:20:30 PM | FC2=32
+01/08 05:20:30 PM | FC3=8
+01/08 05:20:30 PM | SYNC=False
+01/08 05:20:30 PM | 
+01/08 05:20:31 PM | model size: 0.838 KB
+01/08 05:21:53 PM | Final best Prec@1 = 18.3728%
+01/08 05:21:53 PM | total_cost:{613120},total_time:{912}
+01/08 05:21:53 PM | 
+01/08 05:21:53 PM | Parameters:
+01/08 05:21:53 PM | FC1=16
+01/08 05:21:53 PM | FC2=32
+01/08 05:21:53 PM | FC3=16
+01/08 05:21:53 PM | SYNC=False
+01/08 05:21:53 PM | 
+01/08 05:21:54 PM | model size: 1.111 KB
+01/08 05:23:18 PM | Final best Prec@1 = 66.0355%
+01/08 05:23:18 PM | total_cost:{744704},total_time:{1040}
+01/08 05:23:18 PM | 
+01/08 05:23:18 PM | Parameters:
+01/08 05:23:18 PM | FC1=16
+01/08 05:23:18 PM | FC2=32
+01/08 05:23:18 PM | FC3=32
+01/08 05:23:18 PM | SYNC=False
+01/08 05:23:18 PM | 
+01/08 05:23:19 PM | model size: 1.658 KB
+01/08 05:24:42 PM | Final best Prec@1 = 96.7456%
+01/08 05:24:42 PM | total_cost:{1007872},total_time:{1296}
+01/08 05:24:42 PM | 
+01/08 05:24:42 PM | Parameters:
+01/08 05:24:42 PM | FC1=16
+01/08 05:24:42 PM | FC2=32
+01/08 05:24:42 PM | FC3=64
+01/08 05:24:42 PM | SYNC=False
+01/08 05:24:42 PM | 
+01/08 05:24:43 PM | model size: 2.752 KB
+01/08 05:26:07 PM | Final best Prec@1 = 98.1657%
+01/08 05:26:07 PM | total_cost:{1534208},total_time:{1808}
+01/08 05:26:07 PM | 
+01/08 05:26:07 PM | Parameters:
+01/08 05:26:07 PM | FC1=16
+01/08 05:26:07 PM | FC2=64
+01/08 05:26:07 PM | FC3=8
+01/08 05:26:07 PM | SYNC=False
+01/08 05:26:07 PM | 
+01/08 05:26:08 PM | model size: 1.619 KB
+01/08 05:27:33 PM | Final best Prec@1 = 92.2485%
+01/08 05:27:33 PM | total_cost:{1047296},total_time:{1424}
+01/08 05:27:33 PM | 
+01/08 05:27:33 PM | Parameters:
+01/08 05:27:33 PM | FC1=16
+01/08 05:27:33 PM | FC2=64
+01/08 05:27:33 PM | FC3=16
+01/08 05:27:33 PM | SYNC=False
+01/08 05:27:33 PM | 
+01/08 05:27:34 PM | model size: 2.143 KB
+01/08 05:28:58 PM | Final best Prec@1 = 97.8402%
+01/08 05:28:58 PM | total_cost:{1252608},total_time:{1552}
+01/08 05:28:58 PM | 
+01/08 05:28:58 PM | Parameters:
+01/08 05:28:58 PM | FC1=16
+01/08 05:28:58 PM | FC2=64
+01/08 05:28:58 PM | FC3=32
+01/08 05:28:58 PM | SYNC=False
+01/08 05:28:58 PM | 
+01/08 05:29:00 PM | model size: 3.189 KB
+01/08 05:30:26 PM | Final best Prec@1 = 96.8639%
+01/08 05:30:26 PM | total_cost:{1663232},total_time:{1808}
+01/08 05:30:26 PM | 
+01/08 05:30:26 PM | Parameters:
+01/08 05:30:26 PM | FC1=16
+01/08 05:30:26 PM | FC2=64
+01/08 05:30:26 PM | FC3=64
+01/08 05:30:26 PM | SYNC=False
+01/08 05:30:26 PM | 
+01/08 05:30:28 PM | model size: 5.283 KB
+01/08 05:31:58 PM | Final best Prec@1 = 99.7633%
+01/08 05:31:58 PM | total_cost:{2484480},total_time:{2320}
+01/08 05:31:58 PM | 
+01/08 05:31:58 PM | Parameters:
+01/08 05:31:58 PM | FC1=32
+01/08 05:31:58 PM | FC2=8
+01/08 05:31:58 PM | FC3=8
+01/08 05:31:58 PM | SYNC=False
+01/08 05:31:58 PM | 
+01/08 05:31:58 PM | model size: 0.408 KB
+01/08 05:33:29 PM | Final best Prec@1 = 5.5621%
+01/08 05:33:29 PM | total_cost:{435456},total_time:{784}
+01/08 05:33:29 PM | 
+01/08 05:33:29 PM | Parameters:
+01/08 05:33:29 PM | FC1=32
+01/08 05:33:29 PM | FC2=8
+01/08 05:33:29 PM | FC3=16
+01/08 05:33:29 PM | SYNC=False
+01/08 05:33:29 PM | 
+01/08 05:33:30 PM | model size: 0.494 KB
+01/08 05:35:01 PM | Final best Prec@1 = 10.3846%
+01/08 05:35:01 PM | total_cost:{511744},total_time:{912}
+01/08 05:35:01 PM | 
+01/08 05:35:01 PM | Parameters:
+01/08 05:35:01 PM | FC1=32
+01/08 05:35:01 PM | FC2=8
+01/08 05:35:01 PM | FC3=32
+01/08 05:35:01 PM | SYNC=False
+01/08 05:35:01 PM | 
+01/08 05:35:02 PM | model size: 0.666 KB
+01/08 05:36:32 PM | Final best Prec@1 = 71.6272%
+01/08 05:36:32 PM | total_cost:{664320},total_time:{1168}
+01/08 05:36:32 PM | 
+01/08 05:36:32 PM | Parameters:
+01/08 05:36:32 PM | FC1=32
+01/08 05:36:32 PM | FC2=8
+01/08 05:36:32 PM | FC3=64
+01/08 05:36:32 PM | SYNC=False
+01/08 05:36:32 PM | 
+01/08 05:36:33 PM | model size: 1.010 KB
+01/08 05:38:03 PM | Final best Prec@1 = 95.7988%
+01/08 05:38:03 PM | total_cost:{969472},total_time:{1680}
+01/08 05:38:03 PM | 
+01/08 05:38:03 PM | Parameters:
+01/08 05:38:03 PM | FC1=32
+01/08 05:38:03 PM | FC2=16
+01/08 05:38:03 PM | FC3=8
+01/08 05:38:03 PM | SYNC=False
+01/08 05:38:03 PM | 
+01/08 05:38:04 PM | model size: 0.729 KB
+01/08 05:39:34 PM | Final best Prec@1 = 66.6272%
+01/08 05:39:34 PM | total_cost:{580864},total_time:{912}
+01/08 05:39:34 PM | 
+01/08 05:39:34 PM | Parameters:
+01/08 05:39:34 PM | FC1=32
+01/08 05:39:34 PM | FC2=16
+01/08 05:39:34 PM | FC3=16
+01/08 05:39:34 PM | SYNC=False
+01/08 05:39:34 PM | 
+01/08 05:39:35 PM | model size: 0.877 KB
+01/08 05:41:07 PM | Final best Prec@1 = 14.2308%
+01/08 05:41:07 PM | total_cost:{675584},total_time:{1040}
+01/08 05:41:07 PM | 
+01/08 05:41:07 PM | Parameters:
+01/08 05:41:07 PM | FC1=32
+01/08 05:41:07 PM | FC2=16
+01/08 05:41:07 PM | FC3=32
+01/08 05:41:07 PM | SYNC=False
+01/08 05:41:07 PM | 
+01/08 05:41:08 PM | model size: 1.174 KB
+01/08 05:42:41 PM | Final best Prec@1 = 87.7811%
+01/08 05:42:41 PM | total_cost:{865024},total_time:{1296}
+01/08 05:42:41 PM | 
+01/08 05:42:41 PM | Parameters:
+01/08 05:42:41 PM | FC1=32
+01/08 05:42:41 PM | FC2=16
+01/08 05:42:41 PM | FC3=64
+01/08 05:42:41 PM | SYNC=False
+01/08 05:42:41 PM | 
+01/08 05:42:42 PM | model size: 1.768 KB
+01/08 05:44:14 PM | Final best Prec@1 = 98.3432%
+01/08 05:44:14 PM | total_cost:{1243904},total_time:{1808}
+01/08 05:44:14 PM | 
+01/08 05:44:14 PM | Parameters:
+01/08 05:44:14 PM | FC1=32
+01/08 05:44:14 PM | FC2=32
+01/08 05:44:14 PM | FC3=8
+01/08 05:44:14 PM | SYNC=False
+01/08 05:44:14 PM | 
+01/08 05:44:15 PM | model size: 1.369 KB
+01/08 05:45:45 PM | Final best Prec@1 = 17.7515%
+01/08 05:45:45 PM | total_cost:{871680},total_time:{1168}
+01/08 05:45:45 PM | 
+01/08 05:45:45 PM | Parameters:
+01/08 05:45:45 PM | FC1=32
+01/08 05:45:45 PM | FC2=32
+01/08 05:45:45 PM | FC3=16
+01/08 05:45:45 PM | SYNC=False
+01/08 05:45:45 PM | 
+01/08 05:45:46 PM | model size: 1.643 KB
+01/08 05:47:15 PM | Final best Prec@1 = 82.1302%
+01/08 05:47:15 PM | total_cost:{1003264},total_time:{1296}
+01/08 05:47:15 PM | 
+01/08 05:47:15 PM | Parameters:
+01/08 05:47:15 PM | FC1=32
+01/08 05:47:15 PM | FC2=32
+01/08 05:47:15 PM | FC3=32
+01/08 05:47:15 PM | SYNC=False
+01/08 05:47:15 PM | 
+01/08 05:47:16 PM | model size: 2.189 KB
+01/08 05:48:43 PM | Final best Prec@1 = 93.4319%
+01/08 05:48:43 PM | total_cost:{1266432},total_time:{1552}
+01/08 05:48:43 PM | 
+01/08 05:48:43 PM | Parameters:
+01/08 05:48:43 PM | FC1=32
+01/08 05:48:43 PM | FC2=32
+01/08 05:48:43 PM | FC3=64
+01/08 05:48:43 PM | SYNC=False
+01/08 05:48:43 PM | 
+01/08 05:48:44 PM | model size: 3.283 KB
+01/08 05:50:14 PM | Final best Prec@1 = 100.0000%
+01/08 05:50:14 PM | total_cost:{1792768},total_time:{2064}
+01/08 05:50:14 PM | 
+01/08 05:50:14 PM | Parameters:
+01/08 05:50:14 PM | FC1=32
+01/08 05:50:14 PM | FC2=64
+01/08 05:50:14 PM | FC3=8
+01/08 05:50:14 PM | SYNC=False
+01/08 05:50:14 PM | 
+01/08 05:50:15 PM | model size: 2.650 KB
+01/08 05:51:43 PM | Final best Prec@1 = 55.0296%
+01/08 05:51:43 PM | total_cost:{1453312},total_time:{1680}
+01/08 05:51:43 PM | 
+01/08 05:51:43 PM | Parameters:
+01/08 05:51:43 PM | FC1=32
+01/08 05:51:43 PM | FC2=64
+01/08 05:51:43 PM | FC3=16
+01/08 05:51:43 PM | SYNC=False
+01/08 05:51:43 PM | 
+01/08 05:51:44 PM | model size: 3.174 KB
+01/08 05:53:13 PM | Final best Prec@1 = 80.6509%
+01/08 05:53:13 PM | total_cost:{1658624},total_time:{1808}
+01/08 05:53:13 PM | 
+01/08 05:53:13 PM | Parameters:
+01/08 05:53:13 PM | FC1=32
+01/08 05:53:13 PM | FC2=64
+01/08 05:53:13 PM | FC3=32
+01/08 05:53:13 PM | SYNC=False
+01/08 05:53:13 PM | 
+01/08 05:53:15 PM | model size: 4.221 KB
+01/08 05:54:43 PM | Final best Prec@1 = 90.5917%
+01/08 05:54:43 PM | total_cost:{2069248},total_time:{2064}
+01/08 05:54:43 PM | 
+01/08 05:54:43 PM | Parameters:
+01/08 05:54:43 PM | FC1=32
+01/08 05:54:43 PM | FC2=64
+01/08 05:54:43 PM | FC3=64
+01/08 05:54:43 PM | SYNC=False
+01/08 05:54:43 PM | 
+01/08 05:54:45 PM | model size: 6.314 KB
+01/08 05:56:14 PM | Final best Prec@1 = 98.7870%
+01/08 05:56:14 PM | total_cost:{2890496},total_time:{2576}
+01/08 05:56:14 PM | 
+01/08 05:56:14 PM | Parameters:
+01/08 05:56:14 PM | FC1=64
+01/08 05:56:14 PM | FC2=8
+01/08 05:56:14 PM | FC3=8
+01/08 05:56:14 PM | SYNC=False
+01/08 05:56:14 PM | 
+01/08 05:56:15 PM | model size: 0.721 KB
+01/08 05:57:44 PM | Final best Prec@1 = 1.3905%
+01/08 05:57:44 PM | total_cost:{731392},total_time:{1296}
+01/08 05:57:45 PM | 
+01/08 05:57:45 PM | Parameters:
+01/08 05:57:45 PM | FC1=64
+01/08 05:57:45 PM | FC2=8
+01/08 05:57:45 PM | FC3=16
+01/08 05:57:45 PM | SYNC=False
+01/08 05:57:45 PM | 
+01/08 05:57:45 PM | model size: 0.807 KB
+01/08 05:59:15 PM | Final best Prec@1 = 30.6213%
+01/08 05:59:15 PM | total_cost:{807680},total_time:{1424}
+01/08 05:59:15 PM | 
+01/08 05:59:15 PM | Parameters:
+01/08 05:59:15 PM | FC1=64
+01/08 05:59:15 PM | FC2=8
+01/08 05:59:15 PM | FC3=32
+01/08 05:59:15 PM | SYNC=False
+01/08 05:59:15 PM | 
+01/08 05:59:16 PM | model size: 0.979 KB
+01/08 06:00:46 PM | Final best Prec@1 = 72.1598%
+01/08 06:00:46 PM | total_cost:{960256},total_time:{1680}
+01/08 06:00:46 PM | 
+01/08 06:00:46 PM | Parameters:
+01/08 06:00:46 PM | FC1=64
+01/08 06:00:46 PM | FC2=8
+01/08 06:00:46 PM | FC3=64
+01/08 06:00:46 PM | SYNC=False
+01/08 06:00:46 PM | 
+01/08 06:00:48 PM | model size: 1.322 KB
+01/08 06:02:19 PM | Final best Prec@1 = 96.1538%
+01/08 06:02:19 PM | total_cost:{1265408},total_time:{2192}
+01/08 06:02:20 PM | 
+01/08 06:02:20 PM | Parameters:
+01/08 06:02:20 PM | FC1=64
+01/08 06:02:20 PM | FC2=16
+01/08 06:02:20 PM | FC3=8
+01/08 06:02:20 PM | SYNC=False
+01/08 06:02:20 PM | 
+01/08 06:02:21 PM | model size: 1.291 KB
+01/08 06:03:51 PM | Final best Prec@1 = 64.9112%
+01/08 06:03:51 PM | total_cost:{950528},total_time:{1424}
+01/08 06:03:51 PM | 
+01/08 06:03:51 PM | Parameters:
+01/08 06:03:51 PM | FC1=64
+01/08 06:03:51 PM | FC2=16
+01/08 06:03:51 PM | FC3=16
+01/08 06:03:51 PM | SYNC=False
+01/08 06:03:51 PM | 
+01/08 06:03:52 PM | model size: 1.439 KB
+01/08 06:05:24 PM | Final best Prec@1 = 80.2959%
+01/08 06:05:24 PM | total_cost:{1045248},total_time:{1552}
+01/08 06:05:24 PM | 
+01/08 06:05:24 PM | Parameters:
+01/08 06:05:24 PM | FC1=64
+01/08 06:05:24 PM | FC2=16
+01/08 06:05:24 PM | FC3=32
+01/08 06:05:24 PM | SYNC=False
+01/08 06:05:24 PM | 
+01/08 06:05:25 PM | model size: 1.736 KB
+01/08 06:06:56 PM | Final best Prec@1 = 97.0118%
+01/08 06:06:56 PM | total_cost:{1234688},total_time:{1808}
+01/08 06:06:56 PM | 
+01/08 06:06:56 PM | Parameters:
+01/08 06:06:56 PM | FC1=64
+01/08 06:06:56 PM | FC2=16
+01/08 06:06:56 PM | FC3=64
+01/08 06:06:56 PM | SYNC=False
+01/08 06:06:56 PM | 
+01/08 06:06:58 PM | model size: 2.330 KB
+01/08 06:08:29 PM | Final best Prec@1 = 100.0000%
+01/08 06:08:29 PM | total_cost:{1613568},total_time:{2320}
+01/08 06:08:29 PM | 
+01/08 06:08:29 PM | Parameters:
+01/08 06:08:29 PM | FC1=64
+01/08 06:08:29 PM | FC2=32
+01/08 06:08:29 PM | FC3=8
+01/08 06:08:29 PM | SYNC=False
+01/08 06:08:29 PM | 
+01/08 06:08:30 PM | model size: 2.432 KB
+01/08 06:10:02 PM | Final best Prec@1 = 76.4201%
+01/08 06:10:02 PM | total_cost:{1388800},total_time:{1680}
+01/08 06:10:02 PM | 
+01/08 06:10:02 PM | Parameters:
+01/08 06:10:02 PM | FC1=64
+01/08 06:10:02 PM | FC2=32
+01/08 06:10:02 PM | FC3=16
+01/08 06:10:02 PM | SYNC=False
+01/08 06:10:02 PM | 
+01/08 06:10:04 PM | model size: 2.705 KB
+01/08 06:11:38 PM | Final best Prec@1 = 97.5740%
+01/08 06:11:38 PM | total_cost:{1520384},total_time:{1808}
+01/08 06:11:38 PM | 
+01/08 06:11:38 PM | Parameters:
+01/08 06:11:38 PM | FC1=64
+01/08 06:11:38 PM | FC2=32
+01/08 06:11:38 PM | FC3=32
+01/08 06:11:38 PM | SYNC=False
+01/08 06:11:38 PM | 
+01/08 06:11:40 PM | model size: 3.252 KB
+01/08 06:13:12 PM | Final best Prec@1 = 92.0414%
+01/08 06:13:12 PM | total_cost:{1783552},total_time:{2064}
+01/08 06:13:12 PM | 
+01/08 06:13:12 PM | Parameters:
+01/08 06:13:12 PM | FC1=64
+01/08 06:13:12 PM | FC2=32
+01/08 06:13:12 PM | FC3=64
+01/08 06:13:12 PM | SYNC=False
+01/08 06:13:12 PM | 
+01/08 06:13:14 PM | model size: 4.346 KB
+01/08 06:14:47 PM | Final best Prec@1 = 99.1420%
+01/08 06:14:47 PM | total_cost:{2309888},total_time:{2576}
+01/08 06:14:47 PM | 
+01/08 06:14:47 PM | Parameters:
+01/08 06:14:47 PM | FC1=64
+01/08 06:14:47 PM | FC2=64
+01/08 06:14:47 PM | FC3=8
+01/08 06:14:47 PM | SYNC=False
+01/08 06:14:47 PM | 
+01/08 06:14:49 PM | model size: 4.713 KB
+01/08 06:16:23 PM | Final best Prec@1 = 66.8639%
+01/08 06:16:23 PM | total_cost:{2265344},total_time:{2192}
+01/08 06:16:23 PM | 
+01/08 06:16:23 PM | Parameters:
+01/08 06:16:23 PM | FC1=64
+01/08 06:16:23 PM | FC2=64
+01/08 06:16:23 PM | FC3=16
+01/08 06:16:23 PM | SYNC=False
+01/08 06:16:23 PM | 
+01/08 06:16:25 PM | model size: 5.236 KB
+01/08 06:17:59 PM | Final best Prec@1 = 95.5030%
+01/08 06:17:59 PM | total_cost:{2470656},total_time:{2320}
+01/08 06:18:00 PM | 
+01/08 06:18:00 PM | Parameters:
+01/08 06:18:00 PM | FC1=64
+01/08 06:18:00 PM | FC2=64
+01/08 06:18:00 PM | FC3=32
+01/08 06:18:00 PM | SYNC=False
+01/08 06:18:00 PM | 
+01/08 06:18:02 PM | model size: 6.283 KB
+01/08 06:19:36 PM | Final best Prec@1 = 93.8462%
+01/08 06:19:36 PM | total_cost:{2881280},total_time:{2576}
+01/08 06:19:36 PM | 
+01/08 06:19:36 PM | Parameters:
+01/08 06:19:36 PM | FC1=64
+01/08 06:19:36 PM | FC2=64
+01/08 06:19:36 PM | FC3=64
+01/08 06:19:36 PM | SYNC=False
+01/08 06:19:36 PM | 
+01/08 06:19:38 PM | model size: 8.377 KB
+01/08 06:21:13 PM | Final best Prec@1 = 100.0000%
+01/08 06:21:13 PM | total_cost:{3702528},total_time:{3088}
