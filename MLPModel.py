@@ -27,11 +27,15 @@ class MLPNet(nn.Module):
         self.out = nn.Linear(HIDDEN_NODE_FC3,N_CLASSES)
 
     def forward(self,x):
-        # print(x)
         out = self.relu1(self.fc1(x))
         out = self.relu2(self.fc2(out))
         out = self.relu3(self.fc3(out))
         out = self.out(out)
+        
+        # out = self.fc1(x)
+        # out = self.fc2(out)
+        # out = self.fc3(out)
+        # out = self.out(out)
 
         return out
 

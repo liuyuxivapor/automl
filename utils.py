@@ -8,74 +8,94 @@ import numpy as np
 
 benchmark_name = {
     'blackscholes',
-    'fft',
     'inversek2j',
     'jmeint',
     'jpeg',
     'kmeans',
     'sobel',
+    
+    'fft',
+    'dct',
+    'fir',
+    'biquad',
 }
 
 def benchmark_lr(benchmark):
     lr = {
         'blackscholes':1e-2,
-        'fft':1e-4,
         'inversek2j':1e-4,
         'jmeint':1e-4,
         'jpeg':1e-4,
         'kmeans':1e-4,
         'sobel':1e-4,
+        
+        'fft':1e-4,
+        'dct':1e-4,
+        'fir':1e-4,
+        'biquad':1e-4,
     }
     return lr[benchmark]
 
-def benchmark_input_output(benchmark):
-    """
-    [input_size, output_size]
-    """
-    input_output ={
-        'blackscholes': [6,1],
-        'fft': [1,2],
-        'jpeg': [64,64],
-        'kmeans': [6,1],
-        'sobel': [9,1],
-        'inversek2j': [2,2],
-        'jmeint': [18,2]
-    }
-    return input_output[benchmark]
+# def benchmark_input_output(benchmark):
+#     """
+#     [input_size, output_size]
+#     """
+#     input_output ={
+#         'blackscholes': [6,1],
+#         'fft': [1,2],
+#         'jpeg': [64,64],
+#         'kmeans': [6,1],
+#         'sobel': [9,1],
+#         'inversek2j': [2,2],
+#         'jmeint': [18,2]
+#     }
+#     return input_output[benchmark]
 
 def error_func_name(benchmark):
     func = {
         'blackscholes': relative_error,
-        'fft': fft_error,
         'jpeg': RMSE_error,
         'kmeans': relative_error,
         'sobel': Image_diff,
         'inversek2j': inversek2j_error,
-        'jmeint': class_error
+        'jmeint': class_error,
+        
+        'fft': fft_error,
+        'dct': MSE_error,
+        'fir': MSE_error,
+        'biquad': MSE_error,
     }
     return func[benchmark]
 
 def error_bound(benchmark):
 
-    error_bound_grop_1 = {
+    error_bound_group_1 = {
         'blackscholes':0.1, 
-        'fft':0.0001,  
         'inversek2j':0.02, 
         'jmeint':0.92,
         'jpeg':0.001,
         'kmeans':0.05,
         'sobel':0.05,
+        
+        'fft':0.0001,
+        'dct':0.0001, 
+        'fir':0.0001,
+        'biquad':0.0001,
     }
-    error_bound_grop_2 = {
+    error_bound_group_2 = {
         'blackscholes':0.15, 
-        'fft':0.001,  
         'inversek2j':0.05, 
         'jmeint':0.92,
         'jpeg':0.005,
         'kmeans':0.1,
         'sobel':0.1,
+        
+        'fft':0.001, 
+        'dct':0.001,
+        'fir':0.001,
+        'biquad':0.001,
     }
-    return error_bound_grop_1[benchmark]
+    return error_bound_group_1[benchmark]
 
 def accuracy(benchmark_name,origin,prediction):
     err_func = error_func_name(benchmark_name)
@@ -93,6 +113,7 @@ def err_accuracy(err, error_bound):
     correct = err.le(error_bound.expand_as(err))
     correct_k = correct.view(-1).float().sum(0)
     res.append(correct_k.mul_(1.0 / batch_size))
+    # print('{:.4f}'.format(res[0]))
     return res
 
 
@@ -136,6 +157,9 @@ def Image_diff(origin,prediction):
     err = origin- prediction
     return torch.sqrt(torch.mean(torch.pow(err,2),dim=1))
 
+def MSE_error(origin,prediction):
+    err = origin- prediction
+    return torch.mean(torch.pow(err,2),dim=1)
 
 def RMSE_error(origin,prediction):
     err = origin- prediction
@@ -151,6 +175,9 @@ def get_logger(file_path):
     logger = logging.getLogger('auto_nn_ax')
     log_format = '%(asctime)s | %(message)s'
     formatter = logging.Formatter(log_format,datefmt='%m/%d %I:%M:%S %p')
+    
+    # if os.path.exists(file_path):
+    #     os.remove(file_path)
 
     file_handler = logging.FileHandler(file_path)
     file_handler.setFormatter(formatter)

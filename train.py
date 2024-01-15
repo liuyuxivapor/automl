@@ -12,8 +12,8 @@ from mlp_evaluation import  MLP_network,TestMLP_network,print_res
 
 
 def parse_args_for_train(HIDDEN_NODE_FC1,HIDDEN_NODE_FC2,HIDDEN_NODE_FC3):
-    dataset = 'fft'    
-    batch_size = 100
+    dataset = 'biquad'    
+    batch_size = 256
     epochs = 300
     seed = 345
     log_interval = 50
@@ -55,8 +55,6 @@ def main(HIDDEN_NODE_FC1,HIDDEN_NODE_FC2,HIDDEN_NODE_FC3):
     train_loader = torch.utils.data.DataLoader(dataset=custom_train_data_from_txt,batch_size=args.batch_size ,shuffle=True)
     validate_loader = torch.utils.data.DataLoader(dataset=custom_test_data_from_txt,batch_size=custom_test_data_from_txt.data_len,shuffle=False)
     input_size,out_size = custom_train_data_from_txt.input_out_size()
-    
-    # print(input_size, out_size)
 
     torch.cuda.set_device(args.gpu)
 
@@ -78,6 +76,7 @@ def main(HIDDEN_NODE_FC1,HIDDEN_NODE_FC2,HIDDEN_NODE_FC3):
 
     start_epoch = 0
     best_top1 = 0.
+    min_loss = 1e10
     if args.resume:
         logger.info("===> resume from the checkpoint")
         assert os.path.isdir(args.log_path), 'Error: no checkpoint path found!'
@@ -98,11 +97,11 @@ def main(HIDDEN_NODE_FC1,HIDDEN_NODE_FC2,HIDDEN_NODE_FC3):
     
     for epoch in range(start_epoch,start_epoch+args.epochs):
         # training
-        train(train_loader, model, optimizer, criterion, epoch,logger,args)
+        train(train_loader, model, optimizer, criterion, epoch, logger, args)
         
         lr_scheduler.step()
         
-        top1 = validate(validate_loader,model,criterion,epoch,logger, args)
+        loss, top1 = validate(validate_loader, model, criterion, epoch,logger, args)
         if best_top1 < top1:
             best_top1 = top1
             state = {
@@ -111,8 +110,11 @@ def main(HIDDEN_NODE_FC1,HIDDEN_NODE_FC2,HIDDEN_NODE_FC3):
                 'epoch':epoch,
             }
             utils.save_checkpoint(state,args.log_path,True)
+            
+        if loss < min_loss:
+            min_loss = loss
         
-    logger.info("Final best Prec@1 = {:.4%}".format(best_top1))
+    logger.info("Final best Prec = {:.4%}, Loss = {:.4f}".format(best_top1, min_loss))
     logger.info("total_cost:{%d},total_time:{%d}"%(int(res_map['total_cost']),int(res_map['total_time'])))
     return [best_top1,res_map['total_cost'],res_map['total_time']]
 
@@ -148,17 +150,21 @@ def validate(validate_loader,model,criterion,epoch,logger,args):
             N = X.size(0)
             logits = model(X)
             loss = criterion(logits,y)
+            
             prec, = utils.accuracy(args.dataset,y,logits)
             losses.update(loss.item(),N)
             top1.update(prec.item(),N)
-    return top1.avg
+      
+    # logger.info("valid: [{:3d}/{}] Average MSE Loss: {:.8f}".format(epoch + 1, args.epochs, losses.avg))
+    
+    return losses.avg, top1.avg
 
 
 
 if __name__ == '__main__':
     import time
     start = time.time()
-    main(2,2,2)
+    main(8,8,64)
     # node = [8,16,32,64]
     # for i in node:
     #     for j in node:

@@ -1,0 +1,508 @@
+01/10 03:21:09 PM | 
+01/10 03:21:09 PM | Parameters:
+01/10 03:21:09 PM | FC1=2
+01/10 03:21:09 PM | FC2=2
+01/10 03:21:09 PM | FC3=2
+01/10 03:21:09 PM | SYNC=False
+01/10 03:21:09 PM | 
+01/10 03:21:12 PM | model size: 0.019 KB
+01/10 03:22:21 PM | Final best Prec = 92.1387%, Loss = 0.0009
+01/10 03:22:21 PM | total_cost:{50048},total_time:{112}
+01/10 03:22:22 PM | 
+01/10 03:22:22 PM | Parameters:
+01/10 03:22:22 PM | FC1=2
+01/10 03:22:22 PM | FC2=2
+01/10 03:22:22 PM | FC3=4
+01/10 03:22:22 PM | SYNC=False
+01/10 03:22:22 PM | 
+01/10 03:22:22 PM | model size: 0.026 KB
+01/10 03:23:31 PM | Final best Prec = 93.2617%, Loss = 0.0009
+01/10 03:23:31 PM | total_cost:{65088},total_time:{144}
+01/10 03:23:31 PM | 
+01/10 03:23:31 PM | Parameters:
+01/10 03:23:31 PM | FC1=2
+01/10 03:23:31 PM | FC2=2
+01/10 03:23:31 PM | FC3=8
+01/10 03:23:31 PM | SYNC=False
+01/10 03:23:31 PM | 
+01/10 03:23:32 PM | model size: 0.042 KB
+01/10 03:24:41 PM | Final best Prec = 96.9238%, Loss = 0.0008
+01/10 03:24:41 PM | total_cost:{95168},total_time:{208}
+01/10 03:24:41 PM | 
+01/10 03:24:41 PM | Parameters:
+01/10 03:24:41 PM | FC1=2
+01/10 03:24:41 PM | FC2=2
+01/10 03:24:41 PM | FC3=16
+01/10 03:24:41 PM | SYNC=False
+01/10 03:24:41 PM | 
+01/10 03:24:42 PM | model size: 0.073 KB
+01/10 03:25:51 PM | Final best Prec = 96.9727%, Loss = 0.0008
+01/10 03:25:51 PM | total_cost:{155328},total_time:{336}
+01/10 03:25:52 PM | 
+01/10 03:25:52 PM | Parameters:
+01/10 03:25:52 PM | FC1=2
+01/10 03:25:52 PM | FC2=2
+01/10 03:25:52 PM | FC3=32
+01/10 03:25:52 PM | SYNC=False
+01/10 03:25:52 PM | 
+01/10 03:25:52 PM | model size: 0.136 KB
+01/10 03:27:02 PM | Final best Prec = 96.9727%, Loss = 0.0008
+01/10 03:27:02 PM | total_cost:{275648},total_time:{592}
+01/10 03:27:02 PM | 
+01/10 03:27:02 PM | Parameters:
+01/10 03:27:02 PM | FC1=2
+01/10 03:27:02 PM | FC2=2
+01/10 03:27:02 PM | FC3=64
+01/10 03:27:02 PM | SYNC=False
+01/10 03:27:02 PM | 
+01/10 03:27:02 PM | model size: 0.261 KB
+01/10 03:28:13 PM | Final best Prec = 97.0215%, Loss = 0.0008
+01/10 03:28:13 PM | total_cost:{516288},total_time:{1104}
+01/10 03:28:13 PM | 
+01/10 03:28:13 PM | Parameters:
+01/10 03:28:13 PM | FC1=2
+01/10 03:28:13 PM | FC2=4
+01/10 03:28:13 PM | FC3=2
+01/10 03:28:13 PM | SYNC=False
+01/10 03:28:13 PM | 
+01/10 03:28:13 PM | model size: 0.028 KB
+01/10 03:29:23 PM | Final best Prec = 94.6777%, Loss = 0.0008
+01/10 03:29:23 PM | total_cost:{65664},total_time:{144}
+01/10 03:29:24 PM | 
+01/10 03:29:24 PM | Parameters:
+01/10 03:29:24 PM | FC1=2
+01/10 03:29:24 PM | FC2=4
+01/10 03:29:24 PM | FC3=4
+01/10 03:29:24 PM | SYNC=False
+01/10 03:29:24 PM | 
+01/10 03:29:24 PM | model size: 0.040 KB
+01/10 03:30:35 PM | Final best Prec = 96.9238%, Loss = 0.0008
+01/10 03:30:35 PM | total_cost:{81856},total_time:{176}
+01/10 03:30:35 PM | 
+01/10 03:30:35 PM | Parameters:
+01/10 03:30:35 PM | FC1=2
+01/10 03:30:35 PM | FC2=4
+01/10 03:30:35 PM | FC3=8
+01/10 03:30:35 PM | SYNC=False
+01/10 03:30:35 PM | 
+01/10 03:30:35 PM | model size: 0.063 KB
+01/10 03:31:47 PM | Final best Prec = 96.8262%, Loss = 0.0008
+01/10 03:31:47 PM | total_cost:{114240},total_time:{240}
+01/10 03:31:47 PM | 
+01/10 03:31:47 PM | Parameters:
+01/10 03:31:47 PM | FC1=2
+01/10 03:31:47 PM | FC2=4
+01/10 03:31:47 PM | FC3=16
+01/10 03:31:47 PM | SYNC=False
+01/10 03:31:47 PM | 
+01/10 03:31:47 PM | model size: 0.110 KB
+01/10 03:32:59 PM | Final best Prec = 96.1914%, Loss = 0.0008
+01/10 03:32:59 PM | total_cost:{179008},total_time:{368}
+01/10 03:32:59 PM | 
+01/10 03:32:59 PM | Parameters:
+01/10 03:32:59 PM | FC1=2
+01/10 03:32:59 PM | FC2=4
+01/10 03:32:59 PM | FC3=32
+01/10 03:32:59 PM | SYNC=False
+01/10 03:32:59 PM | 
+01/10 03:33:00 PM | model size: 0.204 KB
+01/10 03:34:15 PM | Final best Prec = 97.3145%, Loss = 0.0008
+01/10 03:34:15 PM | total_cost:{308544},total_time:{624}
+01/10 03:34:16 PM | 
+01/10 03:34:16 PM | Parameters:
+01/10 03:34:16 PM | FC1=2
+01/10 03:34:16 PM | FC2=4
+01/10 03:34:16 PM | FC3=64
+01/10 03:34:16 PM | SYNC=False
+01/10 03:34:16 PM | 
+01/10 03:34:16 PM | model size: 0.392 KB
+01/10 03:35:33 PM | Final best Prec = 97.0703%, Loss = 0.0008
+01/10 03:35:33 PM | total_cost:{567616},total_time:{1136}
+01/10 03:35:33 PM | 
+01/10 03:35:33 PM | Parameters:
+01/10 03:35:33 PM | FC1=2
+01/10 03:35:33 PM | FC2=8
+01/10 03:35:33 PM | FC3=2
+01/10 03:35:33 PM | SYNC=False
+01/10 03:35:33 PM | 
+01/10 03:35:34 PM | model size: 0.048 KB
+01/10 03:36:51 PM | Final best Prec = 0.0488%, Loss = 0.0804
+01/10 03:36:51 PM | total_cost:{96896},total_time:{208}
+01/10 03:36:51 PM | 
+01/10 03:36:51 PM | Parameters:
+01/10 03:36:51 PM | FC1=2
+01/10 03:36:51 PM | FC2=8
+01/10 03:36:51 PM | FC3=4
+01/10 03:36:51 PM | SYNC=False
+01/10 03:36:51 PM | 
+01/10 03:36:51 PM | model size: 0.067 KB
+01/10 03:38:09 PM | Final best Prec = 95.8984%, Loss = 0.0008
+01/10 03:38:09 PM | total_cost:{115392},total_time:{240}
+01/10 03:38:09 PM | 
+01/10 03:38:09 PM | Parameters:
+01/10 03:38:09 PM | FC1=2
+01/10 03:38:09 PM | FC2=8
+01/10 03:38:09 PM | FC3=8
+01/10 03:38:09 PM | SYNC=False
+01/10 03:38:09 PM | 
+01/10 03:38:10 PM | model size: 0.106 KB
+01/10 03:39:29 PM | Final best Prec = 93.9453%, Loss = 0.0008
+01/10 03:39:29 PM | total_cost:{152384},total_time:{304}
+01/10 03:39:29 PM | 
+01/10 03:39:29 PM | Parameters:
+01/10 03:39:29 PM | FC1=2
+01/10 03:39:29 PM | FC2=8
+01/10 03:39:29 PM | FC3=16
+01/10 03:39:29 PM | SYNC=False
+01/10 03:39:29 PM | 
+01/10 03:39:29 PM | model size: 0.185 KB
+01/10 03:40:48 PM | Final best Prec = 97.1191%, Loss = 0.0008
+01/10 03:40:48 PM | total_cost:{226368},total_time:{432}
+01/10 03:40:48 PM | 
+01/10 03:40:48 PM | Parameters:
+01/10 03:40:48 PM | FC1=2
+01/10 03:40:48 PM | FC2=8
+01/10 03:40:48 PM | FC3=32
+01/10 03:40:48 PM | SYNC=False
+01/10 03:40:48 PM | 
+01/10 03:40:49 PM | model size: 0.341 KB
+01/10 03:42:08 PM | Final best Prec = 97.0215%, Loss = 0.0008
+01/10 03:42:08 PM | total_cost:{374336},total_time:{688}
+01/10 03:42:09 PM | 
+01/10 03:42:09 PM | Parameters:
+01/10 03:42:09 PM | FC1=2
+01/10 03:42:09 PM | FC2=8
+01/10 03:42:09 PM | FC3=64
+01/10 03:42:09 PM | SYNC=False
+01/10 03:42:09 PM | 
+01/10 03:42:09 PM | model size: 0.653 KB
+01/10 03:43:29 PM | Final best Prec = 96.9238%, Loss = 0.0008
+01/10 03:43:29 PM | total_cost:{670272},total_time:{1200}
+01/10 03:43:30 PM | 
+01/10 03:43:30 PM | Parameters:
+01/10 03:43:30 PM | FC1=2
+01/10 03:43:30 PM | FC2=16
+01/10 03:43:30 PM | FC3=2
+01/10 03:43:30 PM | SYNC=False
+01/10 03:43:30 PM | 
+01/10 03:43:30 PM | model size: 0.087 KB
+01/10 03:44:52 PM | Final best Prec = 96.9238%, Loss = 0.0008
+01/10 03:44:52 PM | total_cost:{159360},total_time:{336}
+01/10 03:44:52 PM | 
+01/10 03:44:52 PM | Parameters:
+01/10 03:44:52 PM | FC1=2
+01/10 03:44:52 PM | FC2=16
+01/10 03:44:52 PM | FC3=4
+01/10 03:44:52 PM | SYNC=False
+01/10 03:44:52 PM | 
+01/10 03:44:52 PM | model size: 0.122 KB
+01/10 03:46:14 PM | Final best Prec = 96.8262%, Loss = 0.0008
+01/10 03:46:14 PM | total_cost:{182464},total_time:{368}
+01/10 03:46:14 PM | 
+01/10 03:46:14 PM | Parameters:
+01/10 03:46:14 PM | FC1=2
+01/10 03:46:14 PM | FC2=16
+01/10 03:46:14 PM | FC3=8
+01/10 03:46:14 PM | SYNC=False
+01/10 03:46:14 PM | 
+01/10 03:46:15 PM | model size: 0.192 KB
+01/10 03:47:36 PM | Final best Prec = 97.0703%, Loss = 0.0008
+01/10 03:47:36 PM | total_cost:{228672},total_time:{432}
+01/10 03:47:36 PM | 
+01/10 03:47:36 PM | Parameters:
+01/10 03:47:36 PM | FC1=2
+01/10 03:47:36 PM | FC2=16
+01/10 03:47:36 PM | FC3=16
+01/10 03:47:36 PM | SYNC=False
+01/10 03:47:36 PM | 
+01/10 03:47:37 PM | model size: 0.333 KB
+01/10 03:48:59 PM | Final best Prec = 97.0703%, Loss = 0.0008
+01/10 03:48:59 PM | total_cost:{321088},total_time:{560}
+01/10 03:48:59 PM | 
+01/10 03:48:59 PM | Parameters:
+01/10 03:48:59 PM | FC1=2
+01/10 03:48:59 PM | FC2=16
+01/10 03:48:59 PM | FC3=32
+01/10 03:48:59 PM | SYNC=False
+01/10 03:48:59 PM | 
+01/10 03:49:00 PM | model size: 0.614 KB
+01/10 03:50:23 PM | Final best Prec = 96.8750%, Loss = 0.0008
+01/10 03:50:23 PM | total_cost:{505920},total_time:{816}
+01/10 03:50:23 PM | 
+01/10 03:50:23 PM | Parameters:
+01/10 03:50:23 PM | FC1=2
+01/10 03:50:23 PM | FC2=16
+01/10 03:50:23 PM | FC3=64
+01/10 03:50:23 PM | SYNC=False
+01/10 03:50:23 PM | 
+01/10 03:50:24 PM | model size: 1.177 KB
+01/10 03:51:47 PM | Final best Prec = 97.0215%, Loss = 0.0008
+01/10 03:51:47 PM | total_cost:{875584},total_time:{1328}
+01/10 03:51:47 PM | 
+01/10 03:51:47 PM | Parameters:
+01/10 03:51:47 PM | FC1=2
+01/10 03:51:47 PM | FC2=32
+01/10 03:51:47 PM | FC3=2
+01/10 03:51:47 PM | SYNC=False
+01/10 03:51:47 PM | 
+01/10 03:51:48 PM | model size: 0.165 KB
+01/10 03:53:11 PM | Final best Prec = 0.0488%, Loss = 0.0165
+01/10 03:53:11 PM | total_cost:{284288},total_time:{592}
+01/10 03:53:11 PM | 
+01/10 03:53:11 PM | Parameters:
+01/10 03:53:11 PM | FC1=2
+01/10 03:53:11 PM | FC2=32
+01/10 03:53:11 PM | FC3=4
+01/10 03:53:11 PM | SYNC=False
+01/10 03:53:11 PM | 
+01/10 03:53:12 PM | model size: 0.231 KB
+01/10 03:54:35 PM | Final best Prec = 96.8262%, Loss = 0.0008
+01/10 03:54:35 PM | total_cost:{316608},total_time:{624}
+01/10 03:54:35 PM | 
+01/10 03:54:35 PM | Parameters:
+01/10 03:54:35 PM | FC1=2
+01/10 03:54:35 PM | FC2=32
+01/10 03:54:35 PM | FC3=8
+01/10 03:54:35 PM | SYNC=False
+01/10 03:54:35 PM | 
+01/10 03:54:36 PM | model size: 0.364 KB
+01/10 03:55:59 PM | Final best Prec = 96.9727%, Loss = 0.0008
+01/10 03:55:59 PM | total_cost:{381248},total_time:{688}
+01/10 03:56:00 PM | 
+01/10 03:56:00 PM | Parameters:
+01/10 03:56:00 PM | FC1=2
+01/10 03:56:00 PM | FC2=32
+01/10 03:56:00 PM | FC3=16
+01/10 03:56:00 PM | SYNC=False
+01/10 03:56:00 PM | 
+01/10 03:56:00 PM | model size: 0.630 KB
+01/10 03:57:25 PM | Final best Prec = 96.9727%, Loss = 0.0008
+01/10 03:57:25 PM | total_cost:{510528},total_time:{816}
+01/10 03:57:25 PM | 
+01/10 03:57:25 PM | Parameters:
+01/10 03:57:25 PM | FC1=2
+01/10 03:57:25 PM | FC2=32
+01/10 03:57:25 PM | FC3=32
+01/10 03:57:25 PM | SYNC=False
+01/10 03:57:25 PM | 
+01/10 03:57:26 PM | model size: 1.161 KB
+01/10 03:58:51 PM | Final best Prec = 97.1680%, Loss = 0.0008
+01/10 03:58:51 PM | total_cost:{769088},total_time:{1072}
+01/10 03:58:52 PM | 
+01/10 03:58:52 PM | Parameters:
+01/10 03:58:52 PM | FC1=2
+01/10 03:58:52 PM | FC2=32
+01/10 03:58:52 PM | FC3=64
+01/10 03:58:52 PM | SYNC=False
+01/10 03:58:52 PM | 
+01/10 03:58:53 PM | model size: 2.224 KB
+01/10 04:00:18 PM | Final best Prec = 97.2168%, Loss = 0.0008
+01/10 04:00:18 PM | total_cost:{1286208},total_time:{1584}
+01/10 04:00:19 PM | 
+01/10 04:00:19 PM | Parameters:
+01/10 04:00:19 PM | FC1=2
+01/10 04:00:19 PM | FC2=64
+01/10 04:00:19 PM | FC3=2
+01/10 04:00:19 PM | SYNC=False
+01/10 04:00:19 PM | 
+01/10 04:00:19 PM | model size: 0.321 KB
+01/10 04:01:45 PM | Final best Prec = 96.7285%, Loss = 0.0008
+01/10 04:01:45 PM | total_cost:{534144},total_time:{1104}
+01/10 04:01:46 PM | 
+01/10 04:01:46 PM | Parameters:
+01/10 04:01:46 PM | FC1=2
+01/10 04:01:46 PM | FC2=64
+01/10 04:01:46 PM | FC3=4
+01/10 04:01:46 PM | SYNC=False
+01/10 04:01:46 PM | 
+01/10 04:01:46 PM | model size: 0.450 KB
+01/10 04:03:14 PM | Final best Prec = 93.7500%, Loss = 0.0008
+01/10 04:03:14 PM | total_cost:{584896},total_time:{1136}
+01/10 04:03:14 PM | 
+01/10 04:03:14 PM | Parameters:
+01/10 04:03:14 PM | FC1=2
+01/10 04:03:14 PM | FC2=64
+01/10 04:03:14 PM | FC3=8
+01/10 04:03:14 PM | SYNC=False
+01/10 04:03:14 PM | 
+01/10 04:03:15 PM | model size: 0.708 KB
+01/10 04:04:42 PM | Final best Prec = 96.9238%, Loss = 0.0008
+01/10 04:04:42 PM | total_cost:{686400},total_time:{1200}
+01/10 04:04:42 PM | 
+01/10 04:04:42 PM | Parameters:
+01/10 04:04:42 PM | FC1=2
+01/10 04:04:42 PM | FC2=64
+01/10 04:04:42 PM | FC3=16
+01/10 04:04:42 PM | SYNC=False
+01/10 04:04:42 PM | 
+01/10 04:04:43 PM | model size: 1.224 KB
+01/10 04:06:11 PM | Final best Prec = 97.0215%, Loss = 0.0008
+01/10 04:06:11 PM | total_cost:{889408},total_time:{1328}
+01/10 04:06:11 PM | 
+01/10 04:06:11 PM | Parameters:
+01/10 04:06:11 PM | FC1=2
+01/10 04:06:11 PM | FC2=64
+01/10 04:06:11 PM | FC3=32
+01/10 04:06:11 PM | SYNC=False
+01/10 04:06:11 PM | 
+01/10 04:06:12 PM | model size: 2.255 KB
+01/10 04:07:40 PM | Final best Prec = 96.9727%, Loss = 0.0008
+01/10 04:07:40 PM | total_cost:{1295424},total_time:{1584}
+01/10 04:07:41 PM | 
+01/10 04:07:41 PM | Parameters:
+01/10 04:07:41 PM | FC1=2
+01/10 04:07:41 PM | FC2=64
+01/10 04:07:41 PM | FC3=64
+01/10 04:07:41 PM | SYNC=False
+01/10 04:07:41 PM | 
+01/10 04:07:42 PM | model size: 4.317 KB
+01/10 04:09:11 PM | Final best Prec = 96.9727%, Loss = 0.0008
+01/10 04:09:11 PM | total_cost:{2107456},total_time:{2096}
+01/10 04:09:11 PM | 
+01/10 04:09:11 PM | Parameters:
+01/10 04:09:11 PM | FC1=4
+01/10 04:09:11 PM | FC2=2
+01/10 04:09:11 PM | FC3=2
+01/10 04:09:11 PM | SYNC=False
+01/10 04:09:11 PM | 
+01/10 04:09:11 PM | model size: 0.026 KB
+01/10 04:10:41 PM | Final best Prec = 0.0488%, Loss = 0.0136
+01/10 04:10:41 PM | total_cost:{65088},total_time:{144}
+01/10 04:10:41 PM | 
+01/10 04:10:41 PM | Parameters:
+01/10 04:10:41 PM | FC1=4
+01/10 04:10:41 PM | FC2=2
+01/10 04:10:41 PM | FC3=4
+01/10 04:10:41 PM | SYNC=False
+01/10 04:10:41 PM | 
+01/10 04:10:42 PM | model size: 0.034 KB
+01/10 04:12:12 PM | Final best Prec = 96.9238%, Loss = 0.0008
+01/10 04:12:12 PM | total_cost:{80128},total_time:{176}
+01/10 04:12:12 PM | 
+01/10 04:12:12 PM | Parameters:
+01/10 04:12:12 PM | FC1=4
+01/10 04:12:12 PM | FC2=2
+01/10 04:12:12 PM | FC3=8
+01/10 04:12:12 PM | SYNC=False
+01/10 04:12:12 PM | 
+01/10 04:12:12 PM | model size: 0.050 KB
+01/10 04:13:43 PM | Final best Prec = 96.8262%, Loss = 0.0008
+01/10 04:13:43 PM | total_cost:{110208},total_time:{240}
+01/10 04:13:44 PM | 
+01/10 04:13:44 PM | Parameters:
+01/10 04:13:44 PM | FC1=4
+01/10 04:13:44 PM | FC2=2
+01/10 04:13:44 PM | FC3=16
+01/10 04:13:44 PM | SYNC=False
+01/10 04:13:44 PM | 
+01/10 04:13:44 PM | model size: 0.081 KB
+01/10 04:15:15 PM | Final best Prec = 96.9238%, Loss = 0.0008
+01/10 04:15:15 PM | total_cost:{170368},total_time:{368}
+01/10 04:15:15 PM | 
+01/10 04:15:15 PM | Parameters:
+01/10 04:15:15 PM | FC1=4
+01/10 04:15:15 PM | FC2=2
+01/10 04:15:15 PM | FC3=32
+01/10 04:15:15 PM | SYNC=False
+01/10 04:15:15 PM | 
+01/10 04:15:16 PM | model size: 0.144 KB
+01/10 04:16:47 PM | Final best Prec = 96.9727%, Loss = 0.0008
+01/10 04:16:47 PM | total_cost:{290688},total_time:{624}
+01/10 04:16:48 PM | 
+01/10 04:16:48 PM | Parameters:
+01/10 04:16:48 PM | FC1=4
+01/10 04:16:48 PM | FC2=2
+01/10 04:16:48 PM | FC3=64
+01/10 04:16:48 PM | SYNC=False
+01/10 04:16:48 PM | 
+01/10 04:16:48 PM | model size: 0.269 KB
+01/10 04:18:21 PM | Final best Prec = 96.8750%, Loss = 0.0008
+01/10 04:18:21 PM | total_cost:{531328},total_time:{1136}
+01/10 04:18:21 PM | 
+01/10 04:18:21 PM | Parameters:
+01/10 04:18:21 PM | FC1=4
+01/10 04:18:21 PM | FC2=4
+01/10 04:18:21 PM | FC3=2
+01/10 04:18:21 PM | SYNC=False
+01/10 04:18:21 PM | 
+01/10 04:18:21 PM | model size: 0.040 KB
+01/10 04:19:54 PM | Final best Prec = 96.7773%, Loss = 0.0008
+01/10 04:19:54 PM | total_cost:{81856},total_time:{176}
+01/10 04:19:55 PM | 
+01/10 04:19:55 PM | Parameters:
+01/10 04:19:55 PM | FC1=4
+01/10 04:19:55 PM | FC2=4
+01/10 04:19:55 PM | FC3=4
+01/10 04:19:55 PM | SYNC=False
+01/10 04:19:55 PM | 
+01/10 04:19:55 PM | model size: 0.052 KB
+01/10 04:21:28 PM | Final best Prec = 96.8750%, Loss = 0.0008
+01/10 04:21:28 PM | total_cost:{98048},total_time:{208}
+01/10 04:21:29 PM | 
+01/10 04:21:29 PM | Parameters:
+01/10 04:21:29 PM | FC1=4
+01/10 04:21:29 PM | FC2=4
+01/10 04:21:29 PM | FC3=8
+01/10 04:21:29 PM | SYNC=False
+01/10 04:21:29 PM | 
+01/10 04:21:29 PM | model size: 0.075 KB
+01/10 04:23:03 PM | Final best Prec = 96.4844%, Loss = 0.0008
+01/10 04:23:03 PM | total_cost:{130432},total_time:{272}
+01/10 04:23:04 PM | 
+01/10 04:23:04 PM | Parameters:
+01/10 04:23:04 PM | FC1=4
+01/10 04:23:04 PM | FC2=4
+01/10 04:23:04 PM | FC3=16
+01/10 04:23:04 PM | SYNC=False
+01/10 04:23:04 PM | 
+01/10 04:23:04 PM | model size: 0.122 KB
+01/10 04:24:39 PM | Final best Prec = 96.9238%, Loss = 0.0008
+01/10 04:24:39 PM | total_cost:{195200},total_time:{400}
+01/10 04:24:39 PM | 
+01/10 04:24:39 PM | Parameters:
+01/10 04:24:39 PM | FC1=4
+01/10 04:24:39 PM | FC2=4
+01/10 04:24:39 PM | FC3=32
+01/10 04:24:39 PM | SYNC=False
+01/10 04:24:39 PM | 
+01/10 04:24:39 PM | model size: 0.216 KB
+01/10 04:26:15 PM | Final best Prec = 96.9727%, Loss = 0.0008
+01/10 04:26:15 PM | total_cost:{324736},total_time:{656}
+01/10 04:26:15 PM | 
+01/10 04:26:15 PM | Parameters:
+01/10 04:26:15 PM | FC1=4
+01/10 04:26:15 PM | FC2=4
+01/10 04:26:15 PM | FC3=64
+01/10 04:26:15 PM | SYNC=False
+01/10 04:26:15 PM | 
+01/10 04:26:16 PM | model size: 0.403 KB
+01/10 04:27:52 PM | Final best Prec = 96.9238%, Loss = 0.0008
+01/10 04:27:52 PM | total_cost:{583808},total_time:{1168}
+01/10 04:27:52 PM | 
+01/10 04:27:52 PM | Parameters:
+01/10 04:27:52 PM | FC1=4
+01/10 04:27:52 PM | FC2=8
+01/10 04:27:52 PM | FC3=2
+01/10 04:27:52 PM | SYNC=False
+01/10 04:27:52 PM | 
+01/10 04:27:52 PM | model size: 0.067 KB
+01/10 04:29:29 PM | Final best Prec = 97.1191%, Loss = 0.0008
+01/10 04:29:29 PM | total_cost:{115392},total_time:{240}
+01/10 04:29:29 PM | 
+01/10 04:29:29 PM | Parameters:
+01/10 04:29:29 PM | FC1=4
+01/10 04:29:29 PM | FC2=8
+01/10 04:29:29 PM | FC3=4
+01/10 04:29:29 PM | SYNC=False
+01/10 04:29:29 PM | 
+01/10 04:29:30 PM | model size: 0.087 KB
+01/10 04:31:07 PM | Final best Prec = 96.9238%, Loss = 0.0008
+01/10 04:31:07 PM | total_cost:{133888},total_time:{272}
+01/10 04:31:07 PM | 
+01/10 04:31:07 PM | Parameters:
+01/10 04:31:07 PM | FC1=4
+01/10 04:31:07 PM | FC2=8
+01/10 04:31:07 PM | FC3=8
+01/10 04:31:07 PM | SYNC=False
+01/10 04:31:07 PM | 
+01/10 04:31:08 PM | model size: 0.126 KB
